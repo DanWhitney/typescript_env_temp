@@ -1,2 +1,2 @@
 # typescript_env_temp
-An Typescript environment
+Typescript Environment For templating
